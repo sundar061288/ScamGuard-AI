@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ScamGuard AI",
+  "description": "Your Personal AI Security Analyst. Detects fraud in text and images using advanced cybersecurity patterns and social engineering detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
